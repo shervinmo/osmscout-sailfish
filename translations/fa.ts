@@ -5,11 +5,11 @@
     <name>About</name>
     <message>
         <source>OSM Scout %1</source>
-        <translation type="unfinished"></translation>
+        <translation>او‌اس‌‌ام اسکات %1</translation>
     </message>
     <message>
         <source>OSM Scout for Sailfish OS is developed as open-source by volunteers in their free time. You can help to improve this application by reporting bugs, creating translations or developing new features. Any help is welcome.</source>
-        <translation>او‌اس‌ام اسکات برای سیستم‌عامل سیلفیش به عنوان نرم‌آفزار آزاد بوسیله داوطلبان در زمان آزادشان توسعه یافته.شما میتوانید با گزارش باگ‌ها ،یا ساختن ترجمه‌ها یا توسعه ویژگی‌های جدید به ارتقاء این برنامه کمک کنید. </translation>
+        <translation>او‌اس‌ام اسکات برای سیستم‌عامل سیلفیش به عنوان نرم‌آفزار آزاد بوسیله داوطلبان در زمان آزادشان توسعه یافته. شما میتوانید با گزارش باگ‌ها، یا ساختن ترجمه‌ها یا توسعه ویژگی‌های جدید به ارتقاء این برنامه کمک کنید. </translation>
     </message>
     <message>
         <source>About</source>
@@ -21,11 +21,11 @@
     </message>
     <message>
         <source>OSMScout library GitHub page</source>
-        <translation type="unfinished"></translation>
+        <translation>صفحه کتابخانه او‌اس‌ام اسکات در گیتهاب</translation>
     </message>
     <message>
         <source>Offline map import tutorial</source>
-        <translation type="unfinished"></translation>
+        <translation>آموزش وارد کردن نقشه برون‌خط</translation>
     </message>
     <message>
         <source>Translators</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Swedish: Åke Engelbrektson</source>
-        <translation type="unfinished"></translation>
+        <translation>سوئدی: Åke Engelbrektson</translation>
     </message>
     <message>
         <source>Norwegian Bokmål: Håvard Moen</source>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Persian: Abtin mo</source>
-        <translation type="unfinished"></translation>
+        <translation>فارسی: Abtin mo</translation>
     </message>
 </context>
 <context>
@@ -128,7 +128,7 @@
     </message>
     <message>
         <source>Move &quot;%1&quot; to</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقال &quot;%1&quot; به</translation>
     </message>
     <message>
         <source>Route to</source>
@@ -188,15 +188,15 @@
     </message>
     <message>
         <source>Raw distance</source>
-        <translation type="unfinished"></translation>
+        <translation>فاصله خام</translation>
     </message>
     <message>
         <source>Ascent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">صعود</translation>
     </message>
     <message>
         <source>Descent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">نزول</translation>
     </message>
     <message>
         <source>Elevation min/max</source>
@@ -204,15 +204,15 @@
     </message>
     <message>
         <source>%1 / %2 km/h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2 کیل.متر بر ساعت</translation>
     </message>
     <message>
         <source>%1 km/h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 کیلومتر بر ساعت</translation>
     </message>
     <message>
         <source>%1 m</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 متر</translation>
     </message>
     <message>
         <source>From</source>
@@ -240,7 +240,7 @@
     </message>
     <message>
         <source>Moving Speed ⌀</source>
-        <translation type="unfinished"></translation>
+        <translation>سرعت حرکت ⌀</translation>
     </message>
 </context>
 <context>
@@ -348,7 +348,7 @@
     <message>
         <source>Target reached, in %1 %2. Closing navigation.</source>
         <extracomment>%1 is distance, %2 is bearing (north, south...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>به مقصد رسیدید، در %1 %2. بستن مسیریابی.</translation>
     </message>
     <message>
         <source>Stopping navigation.</source>
@@ -557,16 +557,16 @@
     <message>
         <source>Itinerary</source>
         <extracomment>header of section with navigation instructions</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">برنامه سفر</translation>
     </message>
     <message>
         <source>Arrival</source>
-        <translation type="unfinished"></translation>
+        <translation>رسیدن</translation>
     </message>
     <message>
         <source>Distance</source>
         <extracomment>Distance to target, itinerary page</extracomment>
-        <translation type="unfinished">فاصله</translation>
+        <translation>فاصله</translation>
     </message>
 </context>
 <context>
@@ -577,65 +577,65 @@
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>پیشفرض</translation>
     </message>
     <message>
         <source>Collection</source>
-        <translation type="unfinished"></translation>
+        <translation>مجموعه</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">نام</translation>
+        <translation>نام</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">توضیح</translation>
+        <translation>توضیح</translation>
     </message>
     <message>
         <source>New collection</source>
-        <translation type="unfinished">مجموعه جدید</translation>
+        <translation>مجموعه جدید</translation>
     </message>
 </context>
 <context>
     <name>PlaceDetail</name>
     <message>
         <source>You are here</source>
-        <translation type="unfinished"></translation>
+        <translation>شما اینجا هستید</translation>
     </message>
     <message>
         <source>%1 %2 from you</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 از شما</translation>
     </message>
     <message>
         <source>%1 %2 from</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 از</translation>
     </message>
 </context>
 <context>
     <name>RouteDescription</name>
     <message>
         <source>Preparing</source>
-        <translation type="unfinished"></translation>
+        <translation>آماده کردن</translation>
     </message>
     <message>
         <source>Calculating the route</source>
-        <translation type="unfinished"></translation>
+        <translation>محاسبه مسیر</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>Navigate</source>
-        <translation type="unfinished"></translation>
+        <translation>مسیر‌یابی</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>قبول</translation>
     </message>
     <message>
         <source>Distance</source>
-        <translation type="unfinished">فاصله</translation>
+        <translation>فاصله</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -654,11 +654,11 @@
     </message>
     <message>
         <source>From</source>
-        <translation type="unfinished">از</translation>
+        <translation>از</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished">به</translation>
+        <translation>به</translation>
     </message>
     <message>
         <source>By</source>
@@ -995,35 +995,35 @@
     <name>osmscout::RouteDescriptionBuilder</name>
     <message>
         <source>Turn sharp left</source>
-        <translation type="unfinished"></translation>
+        <translation>به سرعت به چپ بپیچید</translation>
     </message>
     <message>
         <source>Turn left</source>
-        <translation type="unfinished"></translation>
+        <translation>به چپ بپیچید</translation>
     </message>
     <message>
         <source>Turn slightly left</source>
-        <translation type="unfinished"></translation>
+        <translation>به آرامی به چپ بپیچید</translation>
     </message>
     <message>
         <source>Straight on</source>
-        <translation type="unfinished"></translation>
+        <translation>مستقیم ادامه دهید</translation>
     </message>
     <message>
         <source>Turn slightly right</source>
-        <translation type="unfinished"></translation>
+        <translation>به آرامی به راست بپیچید</translation>
     </message>
     <message>
         <source>Turn right</source>
-        <translation type="unfinished"></translation>
+        <translation>به راست بپیچید</translation>
     </message>
     <message>
         <source>Turn sharp right</source>
-        <translation type="unfinished"></translation>
+        <translation>به سرعت به راست بپیچید</translation>
     </message>
     <message>
         <source>Turn</source>
-        <translation type="unfinished"></translation>
+        <translation>بپیچید</translation>
     </message>
     <message>
         <source>At crossing %1&lt;strong&gt;Turn&lt;/strong&gt; into %2</source>
@@ -1091,19 +1091,19 @@
     </message>
     <message>
         <source>unnamed road</source>
-        <translation type="unfinished"></translation>
+        <translation>جاده بدون اسم</translation>
     </message>
     <message>
         <source>(%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>(%1)</translation>
     </message>
     <message>
         <source>&quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;</translation>
     </message>
     <message>
         <source>&quot;%1&quot; (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; (%2)</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Start&lt;/strong&gt; at %1</source>
@@ -1111,7 +1111,7 @@
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>شروع</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Continue&lt;/strong&gt; along %1</source>
@@ -1119,7 +1119,7 @@
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>ادامه</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Start&lt;/strong&gt; along %1</source>
@@ -1139,7 +1139,7 @@
     </message>
     <message>
         <source>Target reached</source>
-        <translation type="unfinished"></translation>
+        <translation>به مقصد رسیدید</translation>
     </message>
     <message>
         <source>At crossing %1&lt;strong&gt;Enter roundabout&lt;/strong&gt;</source>
@@ -1223,19 +1223,19 @@
     </message>
     <message>
         <source>Take the first exit</source>
-        <translation type="unfinished"></translation>
+        <translation>از اولین خروجی خارج شوید</translation>
     </message>
     <message>
         <source>Take the second exit</source>
-        <translation type="unfinished"></translation>
+        <translation>از دومین خروجی خارج شوید</translation>
     </message>
     <message>
         <source>Take the third exit</source>
-        <translation type="unfinished"></translation>
+        <translation>از سومین خروجی خارج شوید</translation>
     </message>
     <message>
         <source>Take the %1th exit</source>
-        <translation type="unfinished"></translation>
+        <translation>از %1مین خروجی خارج شوید</translation>
     </message>
 </context>
 <context>
